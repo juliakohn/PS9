@@ -1,1 +1,1 @@
-<iframe src="nyc_bikeprioritydistricts_poverty.html" height="855" width="85%"></iframe>
+<iframe src="nyc_bikeprioritydistricts_poverty.html" height="855" width="80%"></iframe>
